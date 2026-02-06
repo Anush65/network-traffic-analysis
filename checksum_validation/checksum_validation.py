@@ -1,3 +1,4 @@
+import utils.session
 from scapy.all import *
 
 pcap_file = "checksum_capture.pcapng"
